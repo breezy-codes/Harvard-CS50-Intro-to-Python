@@ -1,3 +1,4 @@
+# Lecture 0
 # Program task number 2
 # Program to ask the user for their name and greet them
 # This covers different ways to display the name

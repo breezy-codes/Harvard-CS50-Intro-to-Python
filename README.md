@@ -10,11 +10,19 @@ This repository contains all course work done during this free code camp course.
 
 ---
 ### Course Files in the order done during the course
+Lecture 0 - Functions and Variables
 - hello.py - Is a simple Hello World Program
 - helloname.py - Is a program for asking the users name and outputting it, using different methods
 - calculator.py - Is a program for a simple calculator, using different methods
 - hellodef.py - Is a program to test creating and using def functions
 - defcalculator.py - Is a program for a calculator using def functions, using different methods
+---
+Lecture 1 - Conditionals
+- 
+- 
+- 
+---
+Lecture 2 - Loops
 - 
 - 
 - 

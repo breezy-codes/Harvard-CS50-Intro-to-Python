@@ -1,3 +1,4 @@
+# Lecture 0
 # Program Task Number 4
 # This program is for creating a function
 

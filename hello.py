@@ -1,3 +1,4 @@
+# Lecture 0
 # Program task number 1
 # Program to output hello world
 
