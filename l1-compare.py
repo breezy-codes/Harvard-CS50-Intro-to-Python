@@ -22,7 +22,7 @@ if x < y:       # The first condition should be "if" as it is the first conditio
     print("x is less than y")
 elif x > y:     # All conditions between the first and last should be "elif" as they are the conditions to check
     print("x is greater than y")
-else x ==y:     # The final condition should be "else" as its the final condition to check
+else x == y:     # The final condition should be "else" as its the final condition to check
     print("x is equal to y")
 
 # Using or conditionals to check if x is less than y or greater than y using an or conditional

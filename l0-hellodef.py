@@ -6,6 +6,7 @@
 def hello(to="world"):
     print("Hello,", to)
 
+
 # Call the function then output the default hello value
 hello()
 
