@@ -45,3 +45,13 @@ def get_int():
              return int(input("Whats x? "))
         except ValueError:     # If the user enters a non-integer
             print("X is not an integer")
+            
+            
+#A way to make a generic testing function to test any integer input
+# Create a function to get an integer from the user and check if it is an integer
+def get_int(prompt):
+    while True:
+        try:                   # Using try to collect an integer from the user
+             return int(input(prompt))
+        except ValueError:     # If the user enters a non-integer
+            print("X is not an integer")

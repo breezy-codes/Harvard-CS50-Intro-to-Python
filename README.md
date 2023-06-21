@@ -33,10 +33,7 @@ This repository contains all course work done during this free code camp course.
 - l2-mario-block.py - Is a program to print out a block of blocks using loops.
 ---
 **`Lecture 3 - Exceptions`**
-- l3-
-- l3-
-- l3-
-- l3-
+- l3-number.py - A program to test for exceptions using try and except.
 ---
 **`Lecture 4 - Libraries`**
 - l4-
