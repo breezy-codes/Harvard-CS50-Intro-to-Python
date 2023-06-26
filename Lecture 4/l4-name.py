@@ -22,3 +22,16 @@ if len(sys.argv) < 2:
 elif len(sys.argv) > 2:
     sys.exit("Too many arguments")
     
+    
+# A way to check for all names in the argument using only a check for not enough arguments
+if len(sys.argv) < 2:
+    sys.exit("Too few arguments")
+
+# For loop to print all names in the argument
+# However this way also prints out the first name as name.py
+for arg in sys.argv:
+    print("Hello, my name is", arg)
+
+# How to slice the list to only print the names
+for arg in sys.argv[1:]:
+    print("Hello, my name is", arg)

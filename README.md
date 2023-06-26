@@ -37,7 +37,29 @@ This repository contains all course work done during this free code camp course.
 ---
 **`Lecture 4 - Libraries`**
 - l4-generate.py - A program to generate a random number, randomise a list and flip a coin using the random library.
-- l4-average.py - A program to calculate the mean of 2 numbers using the statistics library
+- l4-average.py - A program to calculate the mean of 2 numbers using the statistics library.
 - l4-name.py - a program using sys.argv to take in a name and output it with conditionals.
-- l4-
+- l4-say.py - A program to print out the name from an animal in a funny package library.
+- l4-itunes.py - A program to use requests to get data from the itunes api and ways to get specific information.
+---
+**`Lecture 5 - Unit Tests`**
+- l5-
+- l5-
+--- 
+**`Lecture 6 - File I/O`**
+- l6-
+- l6-
+---
+**`Lecture 7 - Regular Expressions`**
+- l7-
+- l7-
+---
+**`Lecture 8 - Object-Oriented Programming`**
+- l8-
+- l8-
+---
+---
+**`Lecture 9 - Et Cetera`**
+- l9-
+- l9-
 ---
