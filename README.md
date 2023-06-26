@@ -36,8 +36,8 @@ This repository contains all course work done during this free code camp course.
 - l3-number.py - A program to test for exceptions using try and except.
 ---
 **`Lecture 4 - Libraries`**
-- l4-
-- l4-
-- l4-
+- l4-generate.py - A program to generate a random number, randomise a list and flip a coin using the random library.
+- l4-average.py - A program to calculate the mean of 2 numbers using the statistics library
+- l4-name.py - a program using sys.argv to take in a name and output it with conditionals.
 - l4-
 ---
