@@ -41,6 +41,8 @@ This repository contains all course work done during this free code camp course.
 - l4-name.py - a program using sys.argv to take in a name and output it with conditionals.
 - l4-say.py - A program to print out the name from an animal in a funny package library.
 - l4-itunes.py - A program to use requests to get data from the itunes api and ways to get specific information.
+- l4-sayings.py - A program to create my own library and use it in a program.
+- l4-mysay.py - A program using the library created in l4-sayings.py.
 ---
 **`Lecture 5 - Unit Tests`**
 - l5-
