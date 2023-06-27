@@ -57,12 +57,10 @@ This repository contains all course work done during this free code camp course.
 - csv_names.py - A program that reads out all the information from a .csv file.
 - students.py - A program for using a csv to sort students and their houses.
 - add_students.py - A program to add students to the students.csv file in a dictionary format.
-- 
-- 
 ---
 **`Lecture 7 - Regular Expressions`**
-- 
-- 
+- validate.py - A program to collect an email address and check if the input is a valid email.
+- re_validate.py - A program to collect an email address and check validity using re.
 ---
 **`Lecture 8 - Object-Oriented Programming`**
 - 
