@@ -45,8 +45,9 @@ This repository contains all course work done during this free code camp course.
 - l4-mysay.py - A program using the library created in l4-sayings.py.
 ---
 **`Lecture 5 - Unit Tests`**
-- l5-
-- l5-
+- l5-calculate.py - A program to be a calculator to square functions. 
+- l5-test_calculate.py - A program to test the correctness of the square function.
+- l5-pytest_calculate.py - A program to test the correctness of the square function using pytest.
 --- 
 **`Lecture 6 - File I/O`**
 - l6-
