@@ -67,11 +67,4 @@ This repository contains all course work done during this free code camp course.
 **`Lecture 8 - Object-Oriented Programming`**
 - student.py - A program that collects a students name and house and creates a student object.
 - class_student.py - A program building on the previous by using classes to create a student object.
-- type.py - 
-- 
-
----
-**`Lecture 9 - Et Cetera`**
-- 
-- 
 ---
